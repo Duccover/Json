@@ -3,24 +3,27 @@
     {
    
     "Name": "lon",
-    "URL": "https://traigiongthuha.com/uploads/news/size610/news1/8/news_715.jpg",
-    "Positon" :"IOS"
+    "Position" :"IOS",
+    "URL": "https://traigiongthuha.com/uploads/news/size610/news1/8/news_715.jpg"
+    
    
     },
     
     {
    
     "Name": "bo",
-    "URL": "https://traigiongthuha.com/uploads/news/size610/news1/8/news_715.jpg",
-    "Positon" :"PC"
+    "Position" :"PC",
+    "URL": "https://traigiongthuha.com/uploads/news/size610/news1/8/news_715.jpg"
+   
         
     },
     
     {
       
     "Name": "cho",
-    "URL": "https://traigiongthuha.com/uploads/news/size610/news1/8/news_715.jpg",
-    "Positon" :"AR"
+    "Position" :"AR",
+    "URL": "https://traigiongthuha.com/uploads/news/size610/news1/8/news_715.jpg"
+    
     
       
         },
@@ -29,7 +32,7 @@
         
     "Name": "meo",
     "URL": "https://traigiongthuha.com/uploads/news/size610/news1/8/news_715.jpg",
-    "Positon" :"GB"
+    "Position" :"GB"
     
         },
     
@@ -37,16 +40,18 @@
        
     
     "Name": "ngua",
-    "URL": "https://traigiongthuha.com/uploads/news/size610/news1/8/news_715.jpg",
-    "Positon" :"JAVA"
+     "Position" :"JAVA",
+    "URL": "https://traigiongthuha.com/uploads/news/size610/news1/8/news_715.jpg"
+    
     
         },
     
     {
       
     "Name": "ga",
-    "URL": "https://traigiongthuha.com/uploads/news/size610/news1/8/news_715.jpg",
-    "Positon" :"APK"
+    "Position" :"APK",
+    "URL": "https://traigiongthuha.com/uploads/news/size610/news1/8/news_715.jpg"
+    
   
 },
 ]
