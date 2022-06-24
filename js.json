@@ -2,7 +2,7 @@
     {
    
     "name": "lon",
-    "Position" :"IOS",
+    "position" :"IOS",
     "URL": "https://traigiongthuha.com/uploads/news/size610/news1/8/news_715.jpg"
     
    
@@ -11,7 +11,7 @@
     {
    
     "name": "bo",
-    "Position" :"PC",
+    "position" :"PC",
     "URL": "https://traigiongthuha.com/uploads/news/size610/news1/8/news_715.jpg"
    
         
@@ -20,7 +20,7 @@
     {
       
     "name": "cho",
-    "Position" :"AR",
+    "position" :"AR",
     "URL": "https://traigiongthuha.com/uploads/news/size610/news1/8/news_715.jpg"
     
     
@@ -30,7 +30,7 @@
     {
         
     "name": "meo",
-    "Position" :"GB",
+    "position" :"GB",
     "URL": "https://traigiongthuha.com/uploads/news/size610/news1/8/news_715.jpg"
     
     
@@ -40,7 +40,7 @@
        
     
     "name": "ngua",
-     "Position" :"JAVA",
+    "position" :"JAVA",
     "URL": "https://traigiongthuha.com/uploads/news/size610/news1/8/news_715.jpg"
     
     
@@ -49,7 +49,7 @@
     {
       
     "name": "ga",
-    "Position" :"APK",
+    "position" :"APK",
     "URL": "https://traigiongthuha.com/uploads/news/size610/news1/8/news_715.jpg"
     
   
